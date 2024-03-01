@@ -1,0 +1,11 @@
+{
+  "scriptPath": "./extendCommand.js",
+  "options":{
+    "##########" : "外部コマンド",
+    "external-command" : "C:\\work\\Projects\\webscrp\\main.js",
+    "##########" : "MedaDataがセット済みでも、強制更新するかどうか？",
+    "forceUpdMedaData" : false,
+     "##########" : "特定コマンド(WebUpdateCheck)の結果を出力するファイルを指定します。",
+    "outputFile" : "C:\\work\\outpu.txt"
+  }
+}

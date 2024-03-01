@@ -1,0 +1,9 @@
+ショートカットから、リンク先のパスを得る、NodeJSのC+アドオンモジュールです。
+
+コマンドラインを開き、このテキストのディレクトリに移動。
+> node-gyp rebuild
+
+
+Electron用にビルドしなおすには、node-gyp rebuild　した後に、以下のコマンドを実行
+> cd C:\work\Projects\media-man
+>.\node_modules\.bin\electron-rebuild.cmd  --module-dir  src\winshortcut

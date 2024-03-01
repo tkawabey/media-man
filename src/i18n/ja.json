@@ -1,0 +1,82 @@
+{
+  "commands": {
+    "listUp": "リストアップ",
+    "openPropertiy": "プロパティー",
+    "openExternalPrg":"外部プログラムで開く",
+    "openMediaExtInfo":"メディア拡張情報を表示",
+    "reImport": "メディア情報の再取り込み",
+    "propertyDb": "DBプロパティ",
+    "samePrarson": "関連フォルダー管理",
+    "addFolder": "フォルダーの追加",
+    "viewModeCard": "カード表示",
+    "viewModeTable": "テーブル表示",
+    "importEx": "インポート",
+    "delete": "削除"
+  },
+  "strage": {
+    "title": "メディアフォルダーの管理",
+    "keyword": "キーワード",
+    "path": "メディアフォルダー",
+    "status": "ステータス",
+    "explore": "メディアフォルダーを探索してメディア情報を収集",
+    "toolTipAddStatrage": "新規のメディアフォルダーを追加します"
+  },
+  "group": {
+    "samePerson":"関連フォルダー"
+  },
+  "item": {
+    "year": "年",
+    "playTime": "時間",
+    "genre": "ジャンル",
+    "tag": "タグ",
+    "artist": "アーティスト"
+  }
+  ,
+  "commonTitle": {
+    "importMedia": "メディア情報の取り込み",
+    "close": "閉じる",
+    "save": "保存",
+    "clear": "クリア",
+    "setFavorite":"お気に入りの設定",
+    "mediaExtInfo":"メディア拡張情報",
+    "home":"Home",
+    "genre":"ジャンル",
+    "tag":"タグ",
+    "queryFavorite":"お気に入りで絞り込み",
+    "strage":"メディアフォルダー",
+    "setting":"設定",
+    "name":"名前",
+    "searchName":"検索名",
+    "comment":"コメント",
+    "kind":"このフォルダーの種類",
+    "subKind":"このフォルダーの種類2",
+    "artWork":"アートワーク",
+    "query":"絞り込み",
+    "order":"並び替え",
+    "orderDispName":"ファイル名",
+    "orderDispFavorite":"お気に入り",
+    "orderDispYear":"年",
+    "orderDispTitle":"タイトル",
+    "orderDispTrack":"トラック",
+    "configJsonStrage":"設定保存ストレージ",
+    "deleteComfirm":"Delete Comfirm"
+  }
+  ,
+  "message": {
+    "canUsed": "使用可能",
+    "canotBeUsed": "現在使用できません",
+    "complete":"完了しました",
+    "importing":"取り込み中…",
+    "noSetFavorite":"未設定",
+    "Favorite1":"★",
+    "Favorite2":"★★",
+    "Favorite3":"★★★",
+    "Favorite4":"★★★★",
+    "Favorite5":"★★★★★",
+    "PlayCount":"再生回数:${PlayCount}",
+    "inputQueryString":"絞り込む文字を入力してください",
+    "notExitMediExtInfo":"拡張情報が存在しません。",
+    "selectOrder":"並びかえる項目を選択.",
+    "delComfirm":"削除してもよろしいですか？"
+  }
+}

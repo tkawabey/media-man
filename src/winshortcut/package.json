@@ -1,0 +1,25 @@
+{
+  "name": "winshortcut",
+  "version": "1.0.0",
+  "description": "WindowdsProperties App.",
+  "binary": {
+    "module_name": "winshortcut",
+    "module_path": "./bin/win32-x64-116",
+    "host": "https://your_module.s3-us-west-1.amazonaws.com"
+  },
+  "scripts": {
+    "build": "node-pre-gyp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "main": "./bin/winshortcut",
+  "types": "./bin/winshortcut.d.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.11",
+    "bindings": "^1.5.0",
+    "node": "^20.5.1",
+    "node-addon-api": "^7.0.0"
+  }
+}

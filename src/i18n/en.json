@@ -1,0 +1,84 @@
+{
+  "commands": {
+    "listUp": "List up",
+    "openPropertiy": "Property",
+    "openExternalPrg":"Open with external program",
+    "openMediaExtInfo":"Display Media Ext-information",
+    "reImport": "RE-Importing media information",
+    "propertyDb": "DB Property.",
+    "samePrarson": "Same pearson setting.",
+    "addFolder": "Add Folder",
+    "viewModeCard": "View Mode:Card",
+    "viewModeTable": "View Mode:Table",
+    "importEx": "Import",
+    "delete": "Delete"
+  },
+  "strage": {
+    "title": "Managing media folders",
+    "keyword": "Keyword",
+    "path": "media folder",
+    "status": "Status",
+    "explore": "Explore media folders and collect media information",
+    "toolTipAddStatrage": "Add new media folder"
+  },
+  "group": {
+    "samePerson":"Same pearson"
+  },
+  "item": {
+    "year": "Year",
+    "playTime": "Play Time",
+    "genre": "Genre",
+    "tag": "Tag",
+    "artist": "Artist"
+  }
+  ,
+  "commonTitle": {
+    "importMedia": "Importing media information",
+    "close": "Close",
+    "save": "Save changes",
+    "clear": "Clear",
+    "setFavorite":"Set Favarites",
+    "mediaExtInfo":"media-ext-info",
+    "home":"Home",
+    "genre":"Genre",
+    "tag":"Tag",
+    "queryFavorite":"query favorite",
+    "strage":"media folder",
+    "setting":"Setting",
+    "name":"Name",
+    "searchName":"Search name",
+    "comment":"comment",
+    "kind":"Kind",
+    "subKind":"Sub kind",
+    "artWork":"Art Work",
+    "query":"Query",
+    "order":"Order",
+    "orderDispName":"File Name",
+    "orderDispFavorite":"Favarites",
+    "orderDispYear":"Year",
+    "orderDispTitle":"Title",
+    "orderDispTrack":"Track",
+    "configJsonStrage":"Storage for saving settings",
+    "deleteComfirm":"Delete Comfirm"
+  }
+  ,
+  "message": {
+    "canUsed": "can used",
+    "canotBeUsed": "can not be used",
+    "complete":"complete",
+    "importing":"importing...",
+    "noSetFavorite":"No set",
+    "Favorite1":"★",
+    "Favorite2":"★★",
+    "Favorite3":"★★★",
+    "Favorite4":"★★★★",
+    "Favorite5":"★★★★★",
+    "PlayCount":"Count of Play:${PlayCount}",
+    "inputQueryString":"please input query string.",
+    "notExitMediExtInfo":"dose not exit media-ext-info.",
+    "selectOrder":"Select items to order.",
+    "delComfirm":"Are you sure you want to remove it?"
+
+  }
+}
+
