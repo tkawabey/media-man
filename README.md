@@ -4,7 +4,7 @@ MediaManは、写真、音楽、動画などのファイルが、複数のスト
 
 ## 使用方法
 
-
+https://fournonblonds.sakura.ne.jp/projects/media-man/help/MediaMan.html
 
 ## パッケージメモ
 .erb/configs/webpack.config.base.ts の  module: {    rules: [　に、,
